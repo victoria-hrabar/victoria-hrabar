@@ -36,8 +36,8 @@
 
 #### Visualization
 <p>
-  <img src="https://img.shields.io/badge/Looker-green" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-green" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-purple" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-purple" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
