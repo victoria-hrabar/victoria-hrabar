@@ -26,27 +26,26 @@
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
-## 🛠️ Technical Skillset
+## 🛠️ Технічні вміння
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/just%20the%20message">
-  <img src="https://img.shields.io/badge/Excel?style=flat" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Google%20Sheets?style=flat" alt="Google Sheets Skill Badge">
-  <img src="https://img.shields.io/badge/SQL?style=flat" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Looker?style=flat" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau?style=flat" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-green" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-green" alt="Google Sheets Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-green" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-green" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-green" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python?style=flat" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-blue" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-grey" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-grey" alt="Statistical Analysis Skill Badge">
 </p>
 
 ## 🔭 Портфоліо 
