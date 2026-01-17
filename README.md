@@ -30,7 +30,7 @@
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Excel%26Google%20Sheets-green" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-green" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/SQL-green" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Looker-green" alt="Looker Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-green" alt="Tableau Skill Badge">
