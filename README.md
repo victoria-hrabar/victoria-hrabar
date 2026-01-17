@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viktoriia-hrabar-86a830212/?locale=uk_UA"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="mailto:vicktoriya.grabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CV-View-red?style=for-the-badge"></a>
+  <a href="mailto:vicktoriya.grabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CV-View-green?style=for-the-badge"></a>
 </p>
 
 ## 🚀 Про мене 
