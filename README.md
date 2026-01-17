@@ -3,13 +3,13 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=025E73&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Product+IT+experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E7687&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Product+IT+experience" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/viktoriia-hrabar-86a830212/?locale=uk_UA"><img src="https://img.shields.io/badge/LinkedIn-Connect-C88347?style=for-the-badge"></a>
-  <a href="mailto:vicktoriya.grabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C88347?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CV-View-C88347?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/viktoriia-hrabar-86a830212/?locale=uk_UA"><img src="https://img.shields.io/badge/LinkedIn-Connect-4E7687?style=for-the-badge"></a>
+  <a href="mailto:vicktoriya.grabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFDEB8?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CV-View-C3D5DC?style=for-the-badge"></a>
 </p>
 
 ## 🚀 Про мене 
