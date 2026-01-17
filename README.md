@@ -30,6 +30,7 @@
 
 #### Data Analysis & Visualization
 <p>
+  <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
   <img src="https://img.shields.io/badge/Excel?style=flat" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Google%20Sheets?style=flat" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/SQL?style=flat" alt="SQL Skill Badge">
