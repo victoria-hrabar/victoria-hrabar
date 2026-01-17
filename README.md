@@ -36,19 +36,19 @@
 
 #### Visualization
 <p>
-  <img src="https://img.shields.io/badge/Looker-217373" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-217373" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-173540" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-173540" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-173540" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-217373" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-161F30" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-161F30" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-3D3D3D" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-3D3D3D" alt="Statistical Analysis Skill Badge">
 </p>
 
 ## 🔭 Портфоліо 
