@@ -30,25 +30,25 @@
 
 #### Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-03A688" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-03A688" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-876c4e" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-876c4e" alt="SQL Skill Badge">
 </p>
 
 #### Visualization
 <p>
-  <img src="https://img.shields.io/badge/Looker-F2668B" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-F2668B" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-876c4e" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-876c4e" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-026873" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-876c4e" alt="Python Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-011F26" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-011F26" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-876c4e" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-876c4e" alt="Statistical Analysis Skill Badge">
 </p>
 
 ## 🔭 Портфоліо 
