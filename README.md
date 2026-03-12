@@ -53,4 +53,4 @@
 
 ## 🔭 Портфоліо 
 
-- тест
+- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій відтоку серед працівників певної компанії (Python, мат. статистика, Tableau)
