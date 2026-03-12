@@ -37,20 +37,20 @@
 #### Visualization
 <p>
   <img src="https://img.shields.io/badge/Looker-876c4e" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-876c4e" alt="Tableau Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/hr-analytics" target=”_blank”><img src="https://img.shields.io/badge/Tableau-876c4e" alt="Tableau Skill Badge"></a>
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-876c4e" alt="Python Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/hr-analytics" target=”_blank”><img src="https://img.shields.io/badge/Python-876c4e" alt="Python Skill Badge"></a>
 </p>
 
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-876c4e" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-876c4e" alt="Statistical Analysis Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/hr-analytics" target=”_blank”><img src="https://img.shields.io/badge/Statistical%20Analysis-876c4e" alt="Statistical Analysis Skill Badge"></a>
 </p>
 
 ## 🔭 Портфоліо 
 
-- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій відтоку серед працівників певної компанії (Python, мат. статистика, Tableau)
+- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій відтоку серед працівників певної компанії (_Python, мат. статистика, Tableau_)
