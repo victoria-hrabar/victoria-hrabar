@@ -18,19 +18,16 @@
 Беручи до уваги такі якості як систематичність, терпіння і любов до пошуку відповідей, я вирішила встати на шлях дата аналітики. Школа robot_dreams дала мені необхідні технічні навички, і тепер я готова до старту нової кар'єри!
 Нижче ви знайдете перелік моїх технічних вмінь і посилання на проєкти, які продемонструють їх. 
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-<!-- ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
+## 🔭 Портфоліо 
 
-<!--## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
+- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій та причин відтоку серед працівників певної компанії. Надання рекомендацій (_Python, мат. статистика, Tableau_)
+- [Uber Drives](https://github.com/viktoriia-hrabar/uber-drives) — описовий аналіз поведінки клієнтів сервісу Uber (_Google Sheets_)
 
 ## 🛠️ Технічні вміння
 
 #### Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-876c4e" alt="Excel Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/uber-drives" target=”_blank”><img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-876c4e" alt="Excel Skill Badge"></a>
   <img src="https://img.shields.io/badge/SQL-876c4e" alt="SQL Skill Badge">
 </p>
 
@@ -50,8 +47,3 @@
   <img src="https://img.shields.io/badge/A%2FB%20Testing-876c4e" alt="A/B Testing Skill Badge">
   <a href="https://github.com/viktoriia-hrabar/hr-analytics" target=”_blank”><img src="https://img.shields.io/badge/Statistical%20Analysis-876c4e" alt="Statistical Analysis Skill Badge"></a>
 </p>
-
-## 🔭 Портфоліо 
-
-- [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій та причин відтоку серед працівників певної компанії (_Python, мат. статистика, Tableau_)
-- [Uber Drives](https://github.com/viktoriia-hrabar/uber-drives) — описовий аналіз поведінки клієнтів сервісу Uber (_Google Sheets_)
