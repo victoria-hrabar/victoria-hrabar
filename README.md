@@ -21,6 +21,7 @@
 ## 🔭 Портфоліо 
 
 - [HR Analytics](https://github.com/viktoriia-hrabar/hr-analytics) — аналіз тенденцій та причин відтоку серед працівників певної компанії. Розробка системи, яка визначає працівників у зоні ризику та надає рекомендації (_Python, мат. статистика, Tableau_)
+- [Mobile Game Player Behavior](https://github.com/viktoriia-hrabar/mobile-game-player-behavior) — аналіз залученості користувачів мобільної гри. Поведінкова сегментація гравців. Оптимізація запитів (_BigQuery, Looker Studio, продуктові метрики_)
 - [Uber Drives](https://github.com/viktoriia-hrabar/uber-drives) — описовий аналіз поведінки клієнтів сервісу Uber. Включає використання різноманітних технік очистки та форматування даних (_Google Sheets_)
 
 ## 🛠️ Технічні вміння
@@ -28,12 +29,12 @@
 #### Data Analysis
 <p>
   <a href="https://github.com/viktoriia-hrabar/uber-drives" target=”_blank”><img src="https://img.shields.io/badge/Excel%20%26%20Google%20Sheets-876c4e" alt="Excel Skill Badge"></a>
-  <img src="https://img.shields.io/badge/SQL-876c4e" alt="SQL Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/mobile-game-player-behavior" target=”_blank”><img src="https://img.shields.io/badge/SQL-876c4e" alt="SQL Skill Badge"></a>
 </p>
 
 #### Visualization
 <p>
-  <img src="https://img.shields.io/badge/Looker-876c4e" alt="Looker Skill Badge">
+  <a href="https://github.com/viktoriia-hrabar/mobile-game-player-behavior" target=”_blank”><img src="https://img.shields.io/badge/Looker-876c4e" alt="Looker Skill Badge"></a>
   <a href="https://github.com/viktoriia-hrabar/hr-analytics" target=”_blank”><img src="https://img.shields.io/badge/Tableau-876c4e" alt="Tableau Skill Badge"></a>
 </p>
 
