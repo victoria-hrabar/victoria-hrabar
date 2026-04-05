@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/viktoriia-hrabar-86a830212/?locale=uk_UA"><img src="https://img.shields.io/badge/LinkedIn-Connect-4E7687?style=for-the-badge"></a>
   <a href="mailto:vicktoriya.grabar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FFDEB8?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CV-View-C3D5DC?style=for-the-badge"></a>
 </p>
 
 ## 🚀 Про мене 
